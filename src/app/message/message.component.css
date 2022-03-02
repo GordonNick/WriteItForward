@@ -1,0 +1,33 @@
+h1 {
+    color: rgb(248, 233, 215);
+    font-size: 90px;
+    text-align: center;
+}
+
+h2 {
+    color: #4b565a;
+    font-family: Arial, Sans-serif;
+    font-size: 25px;
+    font-style: italic;
+    text-align: center;
+}
+
+#quote {
+    background-color: rgb(248, 233, 215);
+    border: 0;
+    color: #4b565a;
+    height: 50px;
+    font-family: Arial, Sans-serif;
+    font-size: 25px;
+    text-align: center;
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 80%
+}
+
+#quote:focus {
+    background-color:bisque;
+    outline:none;
+  }
+
